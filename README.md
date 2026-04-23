@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Poonam 👋
 
-<!--
-**Poonam-7679/Poonam-7679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst & ML Enthusiast  
+📊 Focused on real-world data problems  
 
-Here are some ideas to get you started:
+## 🔥 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Sales Data Analysis  
+→ Business KPIs, insights, recommendations  
+
+🗳️ Rural Voting Analysis  
+→ ML-based turnout prediction  
+
+## 🛠️ Skills
+Python | Pandas | Scikit-learn | SQL | Matplotlib  
+
+## 🎯 Goal
+To build data-driven solutions for real-world impact what will be the description on it
