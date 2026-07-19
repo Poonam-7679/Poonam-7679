@@ -188,7 +188,7 @@ Python • Scikit-learn • Pandas
 
 ## 🤝 Let's Connect
 
-📧 Email: your-email@example.com
+📧 Email:Sahupoonam7679@gmail.com
 
 💼 LinkedIn:
 https://linkedin.com/in/poonam-sahu-93941528b
